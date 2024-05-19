@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'FlameBold';
+    src: url('../src/assets/FlameBold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+  }
+  
